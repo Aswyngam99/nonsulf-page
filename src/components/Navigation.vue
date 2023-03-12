@@ -13,7 +13,7 @@
               <v-row justify="center" align="center">
                 <v-col class="mt-5">
                 <v-img class="mx-15" src='../../public/logo.png' max-height="200" max-width="200"></v-img>
-                <h4 class="mx-10 list">Test method Non sulfonés</h4>
+                <h5 class="mx-8 list">Test method Non sulfonés</h5>
               </v-col>
             </v-row>
            <v-list>
